@@ -1,0 +1,14 @@
+{
+  "name": "PubMed Parser - Llama 3 8B",
+  "short_name": "PubMed Parser",
+  "description": "Parse PubMed citations with Llama 3 8B. Single or batch processing.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#4f46e5",
+  "theme_color": "#4f46e5",
+  "icons": [{
+    "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🧬</text></svg>",
+    "sizes": "any",
+    "type": "image/svg+xml"
+  }]
+}
